@@ -1,0 +1,4 @@
+João, 7.3
+Maria, 9.2
+Pedro, 9.8
+Ana, 8.7
